@@ -7,7 +7,7 @@ Es Ederson. Estoy haciendo cambio en el archivo. prueba pull request.
 Hola soy Irene(ㆆ_ㆆ)
 Ola y chao, att luis :p
 Holii soy Nacho Amores
-Hola! Soy Eva.
+
 
 
 
@@ -18,7 +18,7 @@ Hola con Angelica
 Hola con Angelica 
 Hola soy Humberto
 
-
+Me cuelo por esta línea en la rama "main"
 
 
 Holiii, soy Nat :)
