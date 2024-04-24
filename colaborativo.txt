@@ -2,6 +2,8 @@ Hola soy Nacho
 
 ¡Hola! colabora conmigo...
 
+
+=======
 Hola! Mi nombre es juanjorod!
 Es Ederson. Estoy haciendo cambio en el archivo. prueba pull request. 
 Hola soy Irene(ㆆ_ㆆ)
@@ -30,3 +32,6 @@ Mi primer intento....
 
 
 
+
+desarrollo
+Este soy yo... en unos minutos nos vamos.
